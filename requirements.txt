@@ -1,0 +1,6 @@
+pytest
+dragonfly2
+pynput
+python-docx
+pycaw
+mss
